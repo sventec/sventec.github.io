@@ -12,4 +12,3 @@ Eventually there'll be a custom domain & etc, give it time.
 - Contact me:
     - through *discord*: fewr.x#9568 (**preferred**)
     - or *email*: fewrx@protonmail.ch
----
