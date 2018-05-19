@@ -10,5 +10,5 @@ Eventually there'll be a custom domain & etc, give it time.
 - [Twitter](https://twitter.com/ffewrr)
 - [YouTube](https://youtube.com/datheadcrabtho)
 - Contact me:
-    - through *discord*: fewr.x#9568 (**preferred**)
+    - through *discord*: fewr.x#9568 (preferred)
     - or *email*: fewrx@protonmail.ch
