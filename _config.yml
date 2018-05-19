@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: [fewr corpus]
 description: [A collection of information/blog posts/etc. It'll populate slowly.]
 
-show_downloads: [true]
+show_downloads: [false]
 
 google_analytics: [UA-119538256-1]
