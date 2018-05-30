@@ -1,3 +1,4 @@
+## Homepage/Table of Contents
 
 Nothing interesting to see in this repo, just files for the mostly empty website/blog I'll be utilizing someday.
 
