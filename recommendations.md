@@ -3,8 +3,14 @@
 
 ### Sorted by type/usage
 
+
+[General Use](#General-Use)
+
+[IDE](#IDE)
+
 ---
 
+# General Use
 * General Use
     * __Broswer__: Opera
     * __Adblocker__: UBlock Origin
@@ -20,4 +26,13 @@
         * Extensions list & install guide WIP
     * __Git UI__: GitKraken
     * __Text Documents__: LaTeX/Markdown
-* 
+ 
+# IDE
+__Visual Studio Code__
+    
+* Open Source
+* Regular Updates
+* Massive extension library (and themes)
+* Settings syncing
+* Github integration (commit, push, etc)
+
