@@ -1,7 +1,7 @@
 ## Realm Grinder Links, Builds, Tools, etc.
 
 ### Personally Curated Builds/Tools
-[Merc Builds - R3+ to R7+](../blob/master/mercs.md)
+[Merc Builds - R3+ to R7+](../mercs.md)
 
 ---
 
