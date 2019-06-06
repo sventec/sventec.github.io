@@ -93,8 +93,8 @@ author:
   name             : "fewrx"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech hobbyist updating this website in their free time, mainly as a side project."
-  location         : "Online"
-  email            : "contact@fewrx.net"
+  # location         : "Online"
+  # email            : "contact@fewrx.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/jordofficial"
     - label: "Soundcloud"
-      icon: "fab fa-fw fa-soundcloud-square"
+      icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/simonre"
 
 # Site Footer
@@ -134,7 +134,7 @@ footer:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/jordofficial"
     - label: "Soundcloud"
-      icon: "fab fa-fw fa-soundcloud-square"
+      icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/simonre"
 
 
