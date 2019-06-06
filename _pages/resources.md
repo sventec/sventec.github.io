@@ -4,6 +4,6 @@ permalink: /resources/
 toc: true
 ---
 
-# My personal compiled resources and guides
+My personally compiled resources and guides
 
 ## Section 1: Utilities

@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /creative/
-toc: true
+toc: false
 ---
 
 # This will be populated with photos/videos in gallery format
