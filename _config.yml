@@ -3,14 +3,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "fewrxCorpus"
 title_separator          : "|"
 name                     : "Reed Simon"
-favicon                  : "/assets/images/bio-photo.jpg"
+# favicon                  : "/assets/images/bio-photo.jpg"
 description              : "A collection of various resources, both complied from external sources and created by fewrx. This website is intended as a quick method for viewing these resources, or just exploring."
 url                      : "https://fewrx.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -118,6 +118,9 @@ author:
     - label: "Soundcloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/simonre"
+    - label: "Donate"
+      icon: "fab fa-fw fa-donate"
+      url: "https://ko-fi.com/fewr_x"
 
 # Site Footer
 footer:
@@ -137,6 +140,9 @@ footer:
     - label: "Soundcloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/simonre"
+    - label: "Donate"
+      icon: "fab fa-fw fa-donate"
+      url: "https://ko-fi.com/fewr_x"
 
 
 # Reading Files
