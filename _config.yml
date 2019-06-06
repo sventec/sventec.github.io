@@ -10,13 +10,14 @@ locale                   : "en-US"
 title                    : "fewrxCorpus"
 title_separator          : "|"
 name                     : "Reed Simon"
+favicon                  : "/assets/images/bio-photo.jpg"
 description              : "A collection of various resources, both complied from external sources and created by fewrx. This website is intended as a quick method for viewing these resources, or just exploring."
 url                      : "https://fewrx.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sventec/sventec.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/bio-photo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,11 +95,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech hobbyist updating this website in their free time, mainly as a side project."
   # location         : "Online"
-  # email            : "contact@fewrx.net"
+  email            : "contact@fewrx.net"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:contact@fewrx.net
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:contact@fewrx.net
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
