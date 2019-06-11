@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fewrx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fewrx.net
+  * I am fewrx (https://keybase.io/fewrx) on keybase.
+  * I have a public key ASCljnzmRbPX7p3hJjUUZUt5n7_H1vBdGuDzc4zzDdmjkgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb9994eb0ddd8fc19bae324469ccc011761a6c2f383ea92e5900e2fdfcb3e1e80a",
+      "host": "keybase.io",
+      "kid": "0120a58e7ce645b3d7ee9de1263514654b799fbfc7d6f05d1ae0f3738cf30dd9a3920a",
+      "uid": "de83a654e7baef475e3d5f68c4453d19",
+      "username": "fewrx"
+    },
+    "merkle_root": {
+      "ctime": 1560226379,
+      "hash": "51eb291190fd7a0d3a5c200bf0165c0d5d87a4784ddbddd7a9654b565cab9e5953c1984cfd5de30d30799b85be3d4fc6f728945e79182f23576cbffa7e4a6771",
+      "hash_meta": "c09e4f5d87d20ef6cd1b4d64171fd159df74d2ba08fe69e43609a6369cfd7988",
+      "seqno": 5546914
+    },
+    "service": {
+      "entropy": "648kVts4rk/lzYdBWHbfObA2",
+      "hostname": "fewrx.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1560226392,
+  "expire_in": 504576000,
+  "prev": "13b5a6a8df74d51b109924d5fd0905534661755a1dae68b853b9ab27a684d558",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpY585kWz1+6d4SY1FGVLeZ+/x9bwXRrg83OM8w3Zo5IKp3BheWxvYWTESpcCCcQgE7WmqN901RsQmSTV/QkFU0ZhdVodrmi4U7mrJ6aE1VjEIGI/Rkh1VkIs/BoZHS5RW6itfn2NCwE1M6rkiZMWZunSAgHCo3NpZ8RAHhJHpX7YbFDG8hw8dcOKjxe4a969sV6JprSRe4yOHiWmsnvYFQtSEveBm9ki4mWnlpgfpMxDeqd/T1m7Qio9BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINabQ4MgZYJ1Cgj7nhzJNL25jjjRq2m5rRwuphSfAp0go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fewrx
+
+==================================================================
