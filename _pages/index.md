@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> About"
+    - label: "About"
       url: "/about"
 excerpt: >
   A collection of personal guides, resources, and whatever else I thought should be published.<br />
