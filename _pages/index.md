@@ -10,3 +10,4 @@ header:
 excerpt: >
   A collection of personal guides, resources, and whatever else I thought should be published.<br />
   Mostly empty/under construction atm, give it some time.
+---
