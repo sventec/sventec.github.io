@@ -282,5 +282,7 @@ defaults:
       author_profile: true
       read_time: false # true
       comments: false # blank
-      share: true
+      share: false
       related: false #true
+      toc: true
+      timezone: America/New_York

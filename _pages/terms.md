@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-last_modified_at: 2010-06-06
+last_modified_at: 2019-06-06
 toc: true
 ---
 
