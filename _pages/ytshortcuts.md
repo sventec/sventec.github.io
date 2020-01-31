@@ -27,4 +27,4 @@ title: "Youtube Shortcuts"
 
 *Note:* `Shift + N` in a playlist moves to the next video in the playlist,  
 otherwise it goes to the next recommended video. `Shift + P` only works in a playlist.
-</p>
+
