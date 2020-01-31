@@ -3,8 +3,6 @@ layout: single
 permalink: /ytshortcuts/
 title: "Youtube Shortcuts"
 ---
-<p align="center">
-# Youtube hotkeys and shortcuts
 
 ## Playback & Navigation
 
