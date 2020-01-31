@@ -1,5 +1,5 @@
 ---
-layoiut: single
+layout: single
 permalink: /ytshortcuts/
 title: "Youtube Shortcuts"
 ---
