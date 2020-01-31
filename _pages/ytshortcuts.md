@@ -3,7 +3,7 @@ layout: single
 permalink: /ytshortcuts/
 title: "Youtube Shortcuts"
 ---
-
+->
 # Youtube hotkeys and shortcuts
 
 ## Playback & Navigation
@@ -23,8 +23,8 @@ title: "Youtube Shortcuts"
 |`f`|Toggle fullscreen|
 |`Shift + N`|Move to next video|
 |`Shift + P`|Move to prev. video|
-{: .text-center}
+
 
 *Note:* `Shift + N` in a playlist moves to the next video in the playlist,  
 otherwise it goes to the next recommended video. `Shift + P` only works in a playlist.
-{: .text-left}
+<-
